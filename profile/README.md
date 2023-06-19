@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+AB Electric A/S is a place, where knowledge is key!
+We are integration partners with Cognex Coporation, which delivers Machine Vision Cameras. 
+We integrate, setup up and support:
+- DataMan Barcode Readers
+- In-Sight 2D Readers
+- In-Sight 3D Scanners
+
+
 <!--
 
 **Here are some ideas to get you started:**
